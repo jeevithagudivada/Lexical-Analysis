@@ -3,9 +3,13 @@ Designed Lexical analyzer for C language which takes C code as input and lexical
 
 Requirements
 -----------------------------------------------------------------
-Operating system: Windows 8
-IDE: NetBeans 8.0
-Language: Java
-Framework: Swing GUI
-Data Structures Used: ArrayList
+--Operating system: Windows 8
+
+--IDE: NetBeans 8.0
+
+--Language: Java
+
+--Framework: Swing GUI
+
+--Data Structures Used: ArrayList
 
